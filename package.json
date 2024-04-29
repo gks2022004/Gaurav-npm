@@ -1,0 +1,14 @@
+{
+  "name": "gaurav-kumar",
+  "version": "1.0.0",
+  "description": "A package that gives introduction about me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gaurav Kumar",
+  "license": "ISC",
+  "repository": "git",
+  "url":"git+"
+}
